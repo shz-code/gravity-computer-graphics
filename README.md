@@ -19,10 +19,10 @@ This project provides a simple interactive visualization tool that allows users 
 # Installation
 - Clone or download the repository to your local machine.
 ```bash
-git clone https://github.com/shz-code/gravity-computer-graphics
+git clone https://github.com/shz-code/gravity-computer-graphics.git
 ```
 - Install freeglut library if you haven't already.
-- Compile the source code using the provided makefile or your preferred build system.
+- Open the project in CodeBlocks. Build and run the main.cpp file.
 
 # Usage
 - Run the compiled executable.
